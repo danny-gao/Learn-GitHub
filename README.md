@@ -2,10 +2,10 @@
 
 # this is a test 
 
-# ![Image](https://github.com/danny-gao/Learn-GitHub/blob/master/data%20flow.png#center)
+# ![Image](https://github.com/danny-gao/Learn-GitHub/blob/master/data%20flow.png)
 
 <div align="center">
-    <img src="https://github.com/danny-gao/Learn-GitHub/blob/master/data%20flow.png" height="300" width="300" >
+    <img src="https://github.com/danny-gao/Learn-GitHub/blob/master/data%20flow.png">
 </div>
 
 # edit on git
