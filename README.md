@@ -7,5 +7,5 @@
 
 # edit on git
 
-<div align=center>
-![Image](https://github.com/danny-gao/Learn-GitHub/blob/master/Struct.png)
+
+<div align=center>![Image](https://github.com/danny-gao/Learn-GitHub/blob/master/Struct.png)
