@@ -11,10 +11,5 @@
 
 # test write file from local
 
-# test git
-
-# test branch local dev
-
 # merge dev-danny
 
-# merge dev-danny again
