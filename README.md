@@ -11,8 +11,6 @@
 
 # test write file from local
 
-# test git flow
-
 # test git
 
 # test branch local dev
