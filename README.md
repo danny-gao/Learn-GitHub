@@ -9,6 +9,6 @@
 </div>
 
 
-# this is master and dev-danny remote
+# this is master remote
 
 
