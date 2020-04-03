@@ -9,11 +9,6 @@
 </div>
 
 
-# test write file from local
+# this is master and dev-danny remote
 
-# test git flow
-
-# test git
-
-# test branch local dev
 
